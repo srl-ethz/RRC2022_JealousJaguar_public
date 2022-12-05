@@ -1,0 +1,9 @@
+[rrc2022]
+task = "lift"  # "push" or "lift"
+dataset_type = "mixed"  # "expert or "mixed"
+
+# Specify a policy for each task/dataset_type combination.
+push_expert_policy = "d3rlpy_based.policy.PushExpertPolicy"
+lift_expert_policy = "d3rlpy_based.policy.LiftExpertPolicy"
+push_mixed_policy = "d3rlpy_based.policy.PushMixedPolicy"
+lift_mixed_policy = "d3rlpy_based.policy.LiftMixedPolicy"

@@ -1,0 +1,5 @@
+{
+    "obs_used":["robot/fingertip_position", "achieved_goal", "object/delay", "robot/torque", "desired_goal", "robot/fingertip_force"],
+    "history_size": 4,
+    "comments": "?? orphaned... https://robots.real-robot-challenge.com/output/jealousjaguar/data/72412/info.json https://github.com/srl-ethz/RRC22/commit/7ee098ae4f27a6d5008fc27cbf0aaef8e5c5125e"
+}

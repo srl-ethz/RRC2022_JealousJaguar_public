@@ -1,0 +1,5 @@
+{
+    "obs_used": ["robot/fingertip_position", "achieved_goal", "object/delay", "robot/torque", "desired_goal", "robot/fingertip_force"],
+    "history_size": 4,
+    "comment": "// yasu_gaussian // https://wandb.ai/srl_ethz/rrc22-lift-expert/runs/1arcr9wh?workspace=user-yasu31 // https://robots.real-robot-challenge.com/output/jealousjaguar/data/71771/ // https://github.com/srl-ethz/RRC22/commit/ec46dfb39546d88fc6f3af6177589f0cebc66d4e"
+}

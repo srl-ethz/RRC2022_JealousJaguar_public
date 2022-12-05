@@ -1,0 +1,5 @@
+{
+    "obs_used": ["robot/fingertip_position", "object/position", "object/delay", "robot/torque", "desired_goal", "robot/fingertip_force"],
+    "history_size": 2,
+    "comments": "// yasu_hs2_low-lr // https://wandb.ai/srl_ethz/rrc22-push-expert/runs/34rzqx8j?workspace=user-yasu31 // https://robots.real-robot-challenge.com/output/jealousjaguar/data/71420/ // https://github.com/srl-ethz/RRC22/commit/cdf2601d1bfec1393480167af3196250e0089162"
+}
